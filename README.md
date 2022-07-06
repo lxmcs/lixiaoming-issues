@@ -8,7 +8,6 @@
 > 4. Mybatis
 - [ ] 学习 Spring 框架 
    - 掌握 IOC 配置 (XML)
-   - 熟练掌握 bean 标签使用    
-   - 熟练使用 bean 标签的 scope 属性
+
 - [ ] 学习使用 SpringMVC
 - [ ] 学习使用 Springboot
